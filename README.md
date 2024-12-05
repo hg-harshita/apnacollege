@@ -1,6 +1,6 @@
 # apnacollege
 my first repository
 
-author - harshita ginti
+author - harshita ginti(Apna College)
 
 
